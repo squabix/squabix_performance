@@ -1,0 +1,8 @@
+.godot/
+.nomedia
+*.translation
+export_presets.cfg
+.mono/
+mono_crash.*.json
+.DS_Store
+Thumbs.db
